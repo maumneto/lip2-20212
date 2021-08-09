@@ -1,4 +1,4 @@
-# **Linguagens De Programacao I 2021.2**
+# **Linguagens De Programacao II (Orientado a Objetos) 2021.2**
 
 [![GitHub issues](https://img.shields.io/github/issues/maumneto/lip2-20212)](https://github.com/maumneto/lip2-20212/issues)
 [![GitHub forks](https://img.shields.io/github/forks/maumneto/lip2-20212)](https://github.com/maumneto/lip2-20212/network)
