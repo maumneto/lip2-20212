@@ -7,10 +7,9 @@ package aula0;
 
 /**
  *
- * @author newaccount
+ * @author mauricio.moreira
  */
 public class Aula0 {
-
     /**
      * @param args the command line arguments
      */
