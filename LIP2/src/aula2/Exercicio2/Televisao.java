@@ -5,10 +5,6 @@
  */
 package aula2.Exercicio2;
 
-/**
- *
- * @author newaccount
- */
 public class Televisao {
     public int canal;
     public int volume;

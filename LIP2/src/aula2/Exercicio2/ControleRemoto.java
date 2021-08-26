@@ -5,10 +5,6 @@
  */
 package aula2.Exercicio2;
 
-/**
- *
- * @author newaccount
- */
 public class ControleRemoto {
     int volume;
     int canal;
