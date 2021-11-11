@@ -15,7 +15,7 @@ import java.sql.SQLException;
 public class ConnectionSingleton {
     private static ConnectionSingleton instance;
     private Connection connection;
-    private String url = "jdbc:mysql://localhost:3306/exampledb?useSSL=true";
+    private String url = "jdbc:mysql://localhost:3306/exampledb2?useSSL=true";
     private String username = "root";
     private String password = "mau123";
     
